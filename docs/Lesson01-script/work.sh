@@ -17,3 +17,4 @@ python stdin2.py < a.txt
 
 
 ## 标准输出篇
+
